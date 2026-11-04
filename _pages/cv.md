@@ -35,12 +35,6 @@ Research Interests
 * Hallucination in vision-language models (VLMs)
 * LLM truthfulness and interpretability
 
-Skills
-======
-* Programming: Python
-* Machine learning / NLP tooling: PyTorch, Hugging Face Transformers
-* Research areas: large language models, vision-language models, evaluation, interpretability
-
 Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
