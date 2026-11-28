@@ -1,1 +1,7 @@
-test
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic homepage"
+url                      : https://partlyacottage.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "Partlyacottage/LJT-Homepage"
